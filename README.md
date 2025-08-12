@@ -1,15 +1,5 @@
 # RAG-ассистент (Google Colab) — универсальный Q&A с загрузкой документов с фокусом на вопросы по тренды в сфере искусственного интеллекта
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USER>/<REPO>/blob/main/colab.ipynb)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB.svg?logo=python&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-4.x-FF7E4B.svg)
-![LangChain](https://img.shields.io/badge/LangChain-0.2%2B-00B8A3.svg)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Inference-yellow.svg)
-
 Ассистент отвечает на вопросы на основе **RAG** (Retrieval-Augmented Generation). Работает прямо в **Google Colab** и предоставляет веб‑UI на **Gradio**.
-
-> **Примечание:** в бейдже «Open in Colab» замените `<USER>/<REPO>` на ваш GitHub путь.
 
 ---
 
