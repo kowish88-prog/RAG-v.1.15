@@ -118,3 +118,5 @@ Gradio выдаст локальный URL. В интерфейсе:
 - `hf_inference` — используется `HuggingFaceEndpoint` c задачей `text-generation`.
 
 ---
+## Пример результатов
+См. файл RAG_Assistant_Report (3).docx
